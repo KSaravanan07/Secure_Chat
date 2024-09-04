@@ -1,0 +1,11 @@
+[req]
+prompt = no
+distinguished_name = dn
+input_password = hello
+
+[dn]
+CN = Bob123.com
+emailAddress = Bob123@gmail.com
+O = Bob123
+L = Sikar
+C = IN
